@@ -1,7 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=theheqiang&style=flat-square&color=blue" alt=""/>
+### :man_technologist: &nbsp;About Me :
+
+I am a Backend Developer from China.
+
+- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
+- 🌱 I’m currently learning some incredible courses just like operating systems, data structures and so on.
+- 📫 WeChat :&nbsp;EdisonKeungHo.
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theheqiang&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theheqiang&layout=compact&theme=vision-friendly-dark)](https://github.com/theheqiang/github-readme-stats)
+
+
 <!--
 **theheqiang/theheqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
